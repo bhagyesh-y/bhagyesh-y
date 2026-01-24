@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagyesh Yadav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from Thane , Mumbai</h3>
 
 - 🔭 I’m currently working on **full stack projects**
 
